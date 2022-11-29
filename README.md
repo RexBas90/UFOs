@@ -7,7 +7,7 @@ In the original UFO Sightings webpage, it was only possible to filter by date. H
 
 A user can use the input fields on the left side to narrow down their search. If I am a resident in California, I could filter by filling in 'ca' in the "Enter State" field like so: 
 
-
+![California Filter](Resources/caFilter.PNG)
 
 A user then can see what findings within their state have been documented. If they are then interested in see what UFO sightings have occurred near them, they can refine the search further by typing in a city name in the "Enter City" field. For El Cajon, CA, it looks like such: 
 
