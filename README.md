@@ -1,7 +1,7 @@
 # UFOs
 
 # Purpose
-In the original UFO Sightings webpage, it was only possible to filter by date. However, there is much more information in the table in other others that it would be ideal to be able to filter even further. Filters would be added for city, state, country, and shape to allows users to further refine their search. 
+In the original UFO Sightings webpage, it was only possible to filter by date. However, there is much more information in the table in other columns that it would be ideal to be able to filter even further. Filters would be added for city, state, country, and shape to allows users to further refine their search. 
 
 # Results
 
@@ -13,7 +13,7 @@ A user then can see what findings within their state have been documented. If th
 
 ![El Cajon Filter](Resources/elcajonFilter.PNG)
 
-And then finally, if a user wanted to confirm a suspicion that they say a UFO near them on a particular day, they can confound their story by searching for sightings for that day. Say this same user who lives near El Cajon, CA thought they saw a UFO on 1/4/2010 can search for that by entering that date in the "Enter Date" field:
+And then finally, if a user wanted to confirm a suspicion that they saw a UFO near them on a particular day, they can attempt to corroborate their story by searching for sightings for that day. Say this same user who lives near El Cajon, CA thought they saw a UFO on 1/4/2010 can search for that by entering that date in the "Enter Date" field:
 
 ![1/4/2010 Filter](Resources/dateFilter.PNG)
 
